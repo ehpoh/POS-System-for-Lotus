@@ -3,6 +3,7 @@
 2. Purchase Products
 3. Check Net Sales
 
+
 1. Subtotal Calculation - Loh Kai Terng
    Subtotal = (Item1 Price * Quantity) + (Item2 Price * Quantity) + ... + (ItemN Price * Quantity)
 
